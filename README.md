@@ -1,3 +1,6 @@
+
+![image](image/Pacman.jpg)
+
 # GrAPiC 
 
 ## Starting
