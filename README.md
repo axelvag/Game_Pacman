@@ -1,3 +1,10 @@
+# Game Pacman
+
+Little Pacman game in C++:
+ - Graphics: textures and movements thanks to the GraPic library
+ - Ghosts: enemies move in all directions without crossing walls
+ - Collisions: wall blocks pacman and ghosts
+ - Intuitive: the movements are simply the directional keys of the keyboard
 
 ![image](image/Pacman.jpg)
 
