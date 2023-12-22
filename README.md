@@ -8,6 +8,15 @@ Little Pacman game in C++:
 
 ![image](image/Pacman.jpg)
 
+# Starting
+
+- Install CodeBlocks (information at the bottom of this page)
+
+- Clone this repo
+```bash
+$ git clone https://github.com/axelvag/Game_Pacman
+```
+
 # GrAPiC 
 
 ## Starting
