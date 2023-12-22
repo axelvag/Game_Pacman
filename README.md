@@ -10,12 +10,12 @@ Little Pacman game in C++:
 
 # Starting
 
-- Install CodeBlocks (information at the bottom of this page)
-
 - Clone this repo
 ```bash
 $ git clone https://github.com/axelvag/Game_Pacman
 ```
+
+- Install CodeBlocks (information at the bottom of this page)
 
 # GrAPiC 
 
